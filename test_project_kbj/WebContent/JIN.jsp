@@ -18,12 +18,16 @@
 
 <H3>GIT을 사용합니다.</H3>
 <P>참 재미있네요</P>
-<P>쉽고 재밌지 않아요....</P>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<P>작업했엉</P>
 <p>이렇게 추가해야되는데...</p>
+
 <p>이렇게 추가해야되는데...</p>
+<P>추가하지마</P>
+
 </body>
 </html>
 
