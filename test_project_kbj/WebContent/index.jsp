@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>Git사용하기</h1>
+<h2>kang추가</h2>
 </body>
 </html>
