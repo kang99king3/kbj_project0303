@@ -11,7 +11,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>파일</h1>
+<h1>금요일이다아아</h1>
+<h1>집가기 2시간 반 전</h1>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
