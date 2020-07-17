@@ -15,6 +15,10 @@
 
 
 <H2>JIN 추가해주시오</H2>
+
+<H3>GIT을 사용합니다.</H3>
+<P>참 재미있네요</P>
+<P>쉽고 재밌지 않아요....</P>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
